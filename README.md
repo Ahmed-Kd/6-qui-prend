@@ -17,6 +17,6 @@ Approche structurée pour la gestion du développement, de la résolution
 de problèmes et des mises à jour continues.
 
 ## Prérequis 
-Compilateur C (par exemple, GCC) \\
+Compilateur C (par exemple, GCC) 
 Bibliothèques standard C (stdlib, pthread, etc.) 
 Environnement de développement compatible (Linux recommandé)
